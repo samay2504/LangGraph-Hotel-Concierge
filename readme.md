@@ -71,14 +71,14 @@ The system is configured with the following hotel details:
 ## 🚀 Setup and Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11
 - Jupyter Notebook or JupyterLab
 - Instagram Developer Account
 - Google Cloud account (for Gemini API)
 
 ### Step 1: Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/samay2504/LangGraph-Hotel-Concierge
 cd hotel-booking-agent
 ```
 
@@ -121,7 +121,7 @@ jupyter notebook Hotel_Booking_agent.ipynb
 ```
 Or run the Flask app directly:
 ```bash
-python app.py
+python app.py (yet to create)
 ```
 
 ## 🧪 Testing Locally
